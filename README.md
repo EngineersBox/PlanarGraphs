@@ -22,10 +22,10 @@ To understand Kuratowski's theorem, we first need to understand two lemmas:
 Now we can look at Kuratowski's theorem, that states:
 >A graph G=(V,E) is planar if and only if G does not contain a subgraph H that is isomorphic to a subdivision of K5 or K3,3.
 
-To see this in action, lets look at the Peterson graph:
-![Peterson Graph](https://ibb.co/W34y2HL)
-Which has an isomorphic subdivision to K3,3:
-![K3,3 Isomorphic Subdivision Peterson Graph](https://ibb.co/tMkRy43)
+To see this in action, lets look at the Peterson graph:\
+![Peterson Graph](https://i.ibb.co/RSk0Dgq/peterson-graph.png)\
+Which has an isomorphic subdivision to K3,3:\
+![K3,3 Isomorphic Subdivision Peterson Graph](https://i.ibb.co/LzbK48v/peterson-k33.png)
 
 #### Euler's Characterisic
 
